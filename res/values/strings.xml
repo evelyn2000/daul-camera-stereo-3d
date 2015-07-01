@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StereoCamera0</string>
+    <string name="app_name_texture">StereoCamera1</string>
+    <string name="app_name_preview">StereoCamera2</string>
+    <string name="app_name_stereo_preview">StereoSbSPreview</string>
+    <string name="app_name_stereo_preview_grouped">StereoPreview</string>
+    <string name="app_name_stereo_recorder">StereoRecorder</string>
+    
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    
+    <string name="toggleRecordingOn">Recording</string>
+	<string name="toggleRecordingOff">Video Rec</string>
+	<string name="button_string_capture">Capture</string>
+	<string name="button_string_view">View</string>
+	
+	<string name="button_preview_mode_sbs">Sbs</string>
+	<string name="button_preview_mode_sbs_vr">Vr</string>
+	<string name="button_preview_mode_stereo">3D</string>
+	<string name="button_preview_mode_stereo_left">2D.L</string>
+	<string name="button_preview_mode_stereo_right">2D.R</string>
+	
+</resources>
